@@ -1,0 +1,13 @@
+C:\Users\win10\source\repos\Duplim\Duplim\bin\Debug\Duplim.exe.config
+C:\Users\win10\source\repos\Duplim\Duplim\bin\Debug\Duplim.exe
+C:\Users\win10\source\repos\Duplim\Duplim\bin\Debug\Duplim.pdb
+C:\Users\win10\source\repos\Duplim\Duplim\obj\Debug\Duplim.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Duplim\Duplim\obj\Debug\Duplim.exe
+C:\Users\win10\source\repos\Duplim\Duplim\obj\Debug\Duplim.pdb
+C:\Users\win10\source\repos\Duplim\Duplim\obj\Debug\Duplim.csprojAssemblyReference.cache
+F:\Duplim\Duplim\bin\Debug\Duplim.exe.config
+F:\Duplim\Duplim\bin\Debug\Duplim.exe
+F:\Duplim\Duplim\bin\Debug\Duplim.pdb
+F:\Duplim\Duplim\obj\Debug\Duplim.csprojAssemblyReference.cache
+F:\Duplim\Duplim\obj\Debug\Duplim.exe
+F:\Duplim\Duplim\obj\Debug\Duplim.pdb
